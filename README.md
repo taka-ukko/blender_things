@@ -35,8 +35,8 @@ Player camera view of the game
 ![](https://github.com/taka-ukko/blender_things/blob/main/walk_chill.gif)
 ### Walk with attitude
 ![](https://github.com/taka-ukko/blender_things/blob/main/walk_strong.gif)
-### Animated long bow
-![](https://github.com/taka-ukko/blender_things/blob/main/longbow_animation.gif)
+### Animated long bow inside a godot project
+![](https://github.com/taka-ukko/blender_things/blob/main/archery_godot.gif)
 
 # Models
 ### Rigged shotgun model with floating arms
